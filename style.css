@@ -3,4 +3,4 @@ body,div,p,ul,li,ol{margin: 0; padding: 0;}
 .newclass{padding: 0px;}
 p{font-size:12px; line-height: 20px; float:left;}
 .add{margin-top:10px;}
-.first{clear:both; display:block;}
+.first{clear:both; display:none;}
